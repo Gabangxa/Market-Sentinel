@@ -1,0 +1,5 @@
+{
+  "name": "Market Sentiment Dashboard",
+  "description": "A real-time financial sentiment analysis dashboard mimicking a Discord bot backend, powered by Gemini 2.0 Flash and Google Search Grounding.",
+  "requestFramePermissions": []
+}
